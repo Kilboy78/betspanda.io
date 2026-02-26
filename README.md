@@ -1,2 +1,0 @@
-# betspanda.io
-My First
